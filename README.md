@@ -18,3 +18,10 @@ for a Dental System serving the KFUPM community, following the **IEEE SPMP stand
 ## Course Information
 - Course: SWE 387 – Software Project Management
 - Semester: 241
+
+## Group Project 
+- Renad Alqahtani (Me)
+- Sadeem Alotaibi
+- Wala Aljobran
+- Reyouf Albogmi
+- Zahra Alhadab
